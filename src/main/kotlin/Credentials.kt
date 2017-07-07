@@ -1,3 +1,0 @@
-val CONSUMER_KEY = "horimori-1298"
-val CONSUMER_SECRET = "723eb5caaf174bd6"
-val OAUTH_TOKEN = "S=s1:U=93cfa:E=1645c736183:C=15d04c23230:P=1cd:A=en-devtoken:V=2:H=a14c3dae46354720e922e6379553bbfb"
